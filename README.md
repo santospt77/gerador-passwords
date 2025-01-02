@@ -1,6 +1,3 @@
-Claro! Aqui está o `README.md` em português de Portugal, com a adição do link para o projeto:
-
-```markdown
 # Gerador de Senhas - Daniel Santos
 
 Este projeto é um gerador de senhas personalizável desenvolvido com HTML, CSS e JavaScript. Permite aos utilizadores gerar senhas seguras com opções para incluir caracteres maiúsculos, números e símbolos. Além disso, o gerador pode criar senhas específicas para várias plataformas, como Google, Facebook, Instagram, entre outras.
@@ -60,4 +57,3 @@ Sinta-se à vontade para contribuir com melhorias! Para tal, siga os seguintes p
 ## Licença
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
-```
