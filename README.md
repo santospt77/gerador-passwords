@@ -36,11 +36,11 @@ O projeto pode ser visitado em: [senhasseguras.pt](https://senhasseguras.pt)
 
 1. Faça o download ou clone este repositório usando o comando:
    ```
-   git clone https://github.com/seu-usuario/gerador-de-senhas.git
+   git clone https://github.com/santospt77/gerador-passwords.git
    ```
 2. Aceda à pasta do projeto:
    ```
-   cd gerador-de-senhas
+   cd gerador-passwords
    ```
 3. Abra o arquivo `index.html` no seu navegador de preferência.
 
